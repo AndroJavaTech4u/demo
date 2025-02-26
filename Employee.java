@@ -3,7 +3,7 @@ class Employee
 
 String name,address,mobile;
 int age;
-float salary;
+
 int pin;
 double tax;
 String day;
@@ -13,7 +13,13 @@ void show()
     
 }
 
-
+String name111;
+String City;
+String Cname;
+Srting Fname;
+String PAddresss;
+Void details(){
+    
 void showEmpInfo()
 {
 System.out.println(name);

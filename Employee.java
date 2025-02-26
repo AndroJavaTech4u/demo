@@ -4,6 +4,14 @@ class Employee
 String name,address,mobile;
 int age;
 float salary;
+int pin;
+double tax;
+String day;
+
+void show()
+{
+    
+}
 
 
 void showEmpInfo()

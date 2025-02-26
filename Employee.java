@@ -3,7 +3,7 @@ class Employee
 
 String name,address,mobile;
 int age;
-double salary;
+float salary;
 
 
 void showEmpInfo()
